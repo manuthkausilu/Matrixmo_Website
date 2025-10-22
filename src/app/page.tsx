@@ -24,11 +24,11 @@ export default function Home() {
 
         {/* Content Overlay */}
         <div className="relative z-10 flex items-end justify-center h-full pb-20">
-          <div className="text-center text-white px-6 max-w-6xl">
-            <h1 className="text-4xl md:text-8xl lg:text-8xl font-bold mb-4 tracking-tight" style={{ fontFamily: 'Inter, sans-serif' }}>
+          <div className="text-center text-white px-6 max-w-full">
+            <h1 className="text-4xl md:text-8xl lg:text-9xl font-bold mb-4 tracking-tight whitespace-nowrap" style={{ fontFamily: 'Inter, sans-serif' }}>
               Innovating the Future,
             </h1>
-            <h1 className="text-4xl md:text-8xl lg:text-8xl font-bold tracking-tight" style={{ fontFamily: 'Inter, sans-serif' }}>
+            <h1 className="text-4xl md:text-8xl lg:text-9xl font-bold tracking-tight whitespace-nowrap" style={{ fontFamily: 'Inter, sans-serif' }}>
               One Solution at a Time
             </h1>
           </div>
